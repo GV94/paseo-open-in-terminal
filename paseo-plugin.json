@@ -1,0 +1,9 @@
+{
+  "id": "open-in-terminal",
+  "name": "Open in Terminal",
+  "description": "Open the current workspace or worktree in your terminal app on macOS",
+  "media": [],
+  "requirements": {
+    "paseo": ">=0.11.4"
+  }
+}
